@@ -23,7 +23,14 @@ A community-driven list of worldwide programs on Computational Design topics.
 - [Design for Performance & Interaction MArch](https://www.ucl.ac.uk/bartlett/architecture/programmes/postgraduate/march-design-for-performance-and-interaction), UCL
 - [Design for Manufacture MArch](https://www.ucl.ac.uk/bartlett/architecture/programmes/postgraduate/march-design-for-manufacture), UCL
   - The two programs above are Masters in Architecture, but they have very strong computational content, for fabricatior or interaction. 
-
+- [Master in Advanced Computation for Architecture & Design (MaCAD)](https://iaac.net/educational-programmes/masters-programmes/macad/), IAAC
+- [Master in Robotics and Advanced Construction (MRAC)](https://iaac.net/educational-programmes/masters-programmes/master-in-robotics-and-advanced-construction-mrac/), IAAC
+- [Architecture and Urbanism (DRL) MArch](https://www.aaschool.ac.uk/academicprogrammes/postgraduate/architecture-and-urbanism), AA
+- [Emergent Technologies and Design (EMTECH)](https://emtech.aaschool.ac.uk/), AA
+- [Computational Methods in Architecture (MSc)](https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/msc-in-computational-methods-in-architecture), Cardiff University
+- [Civil Engineering M.Sc.](https://www.tu.berlin/en/studying/study-programs/all-programs-offered/study-course/civil-engineering-m-sc), TUB
+  - This one is perhaps less architecture-oriented, but more on the BIM and project management side. 
+  - Taught in German only?
 
 ## DOCTORAL DEGREES
 
@@ -35,7 +42,7 @@ A community-driven list of worldwide programs on Computational Design topics.
 
 ## RESEARCH LABS
 
-These labs typically accept applications to do residency or research with them, and some offer a Masters or PhD degrees as a result. Please note that the admission conditions, course requirements and financial conditions can widely vary in these groups.
+These labs typically accept applications to do residency or research with them, and some offer a Master or PhD degrees as a result. Please note that the admission conditions, course requirements and financial conditions can widely vary in these groups.
 
 - [Ikeda Lab](https://arch.t.u-tokyo.ac.jp/en/laboratory/yasushi-ikeda-lab/), University of Tokyo
   - Led by Yasushi Ikeda.
