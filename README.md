@@ -58,6 +58,7 @@ This list includes doctoral degrees at the school level. You may also get simila
   - Jose Luis is also involved in the teaching of this program. 
 - [PhD in Computation](https://architecture.mit.edu/computation), MIT
 - [PhD in Computational Design](https://www.architecture.cmu.edu/computational-design), CMU
+- [Architecture & Technology (A&T) Doctoral Programme](https://ita.arch.ethz.ch/Doctoral-Program.html), ETH
 
 
 ## RESEARCH LABS
