@@ -31,6 +31,7 @@ This list explictly excludes regular MArch programs that don't have some kind of
 - [Design for Manufacture MArch](https://www.ucl.ac.uk/bartlett/architecture/programmes/postgraduate/march-design-for-manufacture), UCL
   - The two programs above are Masters in Architecture, but they have very strong computational content, for fabricatior or interaction. 
 - [Master in Advanced Computation for Architecture & Design (MaCAD)](https://iaac.net/educational-programmes/masters-programmes/macad/), IAAC
+  - MACAD is an 100% online program training students and professionals to become proficient in computational design, digital technologies and AI applied to AEC. 
 - [Master in Robotics and Advanced Construction (MRAC)](https://iaac.net/educational-programmes/masters-programmes/master-in-robotics-and-advanced-construction-mrac/), IAAC
 - [Architecture and Urbanism (DRL) MArch](https://www.aaschool.ac.uk/academicprogrammes/postgraduate/architecture-and-urbanism), AA
 - [Emergent Technologies and Design (EMTECH)](https://emtech.aaschool.ac.uk/), AA
